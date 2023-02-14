@@ -1,0 +1,7 @@
+django ==3.0.6
+djangorestframework
+requests
+whitenoise
+pyodbc
+django-environ
+django-mssql-backend
